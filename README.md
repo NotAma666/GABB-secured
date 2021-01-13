@@ -1,5 +1,5 @@
 # GABB-secured
-![Windows](https://github.com/danielkrupinski/GOESP/workflows/Windows/badge.svg)
+[![Windows](https://github.com/danielkrupinski/GOESP/workflows/Windows/badge.svg)](https://github.com/NotAma666/GABB-secured)
 
 GABB with extra protection to make it more undetectable.
 Currently supports Windows.
