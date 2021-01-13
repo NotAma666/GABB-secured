@@ -1,4 +1,5 @@
 # GABB-secured
+[![Windows](https://github.com/danielkrupinski/GOESP/workflows/Windows/badge.svg?branch=master&event=push)]
 GABB with extra protection to make it more undetectable. 
 
 # GABB
@@ -23,3 +24,9 @@ The Uncomplete GABB Source Code, full on Reji's discord Server.
 [@BillyTheButcher](https://github.com/BillytheButcher) - feel free to contact me
 
 [@NotAma666](https://github.com/NotAma666) - Added protection to GABB-secured.
+
+## License
+
+> Copyright (c) 2019-2021 Daniel Krupiński
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](LICENSE) file for details.
