@@ -1,6 +1,8 @@
 # GABB-secured
-[![Windows](https://github.com/danielkrupinski/GOESP/workflows/Windows/badge.svg?branch=master&event=push)]
-GABB with extra protection to make it more undetectable. 
+![Windows](https://github.com/danielkrupinski/GOESP/workflows/Windows/badge.svg)
+
+GABB with extra protection to make it more undetectable.
+Currently supports Windows.
 
 # GABB
 The Uncomplete GABB Source Code, full on Reji's discord Server.
