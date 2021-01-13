@@ -29,6 +29,6 @@ The Uncomplete GABB Source Code, full on Reji's discord Server.
 
 ## License
 
-> Copyright (c) 2019-2021 Daniel Krupiński
+> Copyright (c) 2021 Ama
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](LICENSE) file for details.
